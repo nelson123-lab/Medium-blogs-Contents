@@ -16,6 +16,7 @@ different environments, regardless of the underlying system configuration.
 Dockerizing depends on the specific requirements of your project and the intended use of your Python file.
 
 References:
-[Creation of wheel file - Python - Library](https://youtu.be/szQemwqdT2s)
-[Wheel Files: Packaging Python Applications & Modules](https://youtu.be/n2d_7RPTKlk)
-[How to Build Python Packages for Pip](https://youtu.be/JkeNVaiUq_c)
+
+- [Creation of wheel file - Python - Library](https://youtu.be/szQemwqdT2s)
+- [Wheel Files: Packaging Python Applications & Modules](https://youtu.be/n2d_7RPTKlk)
+- [How to Build Python Packages for Pip](https://youtu.be/JkeNVaiUq_c)
