@@ -14,3 +14,8 @@ different environments, regardless of the underlying system configuration.
 
 - Both packaging and Dockerizing have their own benefits and use cases. Packaging is more lightweight and suitable for sharing code, while Dockerizing provides a higher level of isolation and portability. The choice between packaging and 
 Dockerizing depends on the specific requirements of your project and the intended use of your Python file.
+
+References:
+[Creation of wheel file - Python - Library](https://youtu.be/szQemwqdT2s)
+[Wheel Files: Packaging Python Applications & Modules](https://youtu.be/n2d_7RPTKlk)
+[How to Build Python Packages for Pip](https://youtu.be/JkeNVaiUq_c)
